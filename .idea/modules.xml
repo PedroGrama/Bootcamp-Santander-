@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Banco Digital com Java e Orientação a Objetos/Banco Digital com Java e Orientação a Objetos.iml" filepath="$PROJECT_DIR$/Banco Digital com Java e Orientação a Objetos/Banco Digital com Java e Orientação a Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp-Santander.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp-Santander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContadorDigitoConta/ContadorDigitoConta.iml" filepath="$PROJECT_DIR$/ContadorDigitoConta/ContadorDigitoConta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio-Abstracao-POO/Desafio-Abstracao-POO.iml" filepath="$PROJECT_DIR$/Desafio-Abstracao-POO/Desafio-Abstracao-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iphone/Iphone.iml" filepath="$PROJECT_DIR$/Iphone/Iphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream API/Stream API.iml" filepath="$PROJECT_DIR$/Stream API/Stream API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-java-api-2023/collections-java-api-2023.iml" filepath="$PROJECT_DIR$/collections-java-api-2023/collections-java-api-2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml" filepath="$PROJECT_DIR$/meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml" />
+    </modules>
+  </component>
+</project>
