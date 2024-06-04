@@ -1,12 +1,12 @@
-
+import java.util.ArrayList;
+import java.util.List;
 public class Main {
 
 	public static void main(String[] args) {
-		Cliente venilton = new Cliente();
-		venilton.setNome("Venilton");
 		
-		Conta cc = new ContaCorrente(venilton);
-		Conta poupanca = new ContaPoupanca(venilton);
+		
+		Conta cc = new ContaCorrente();
+		Conta poupanca = new ContaPoupanca();
 
 		cc.depositar(100);
 		cc.transferir(100, poupanca);
@@ -14,5 +14,8 @@ public class Main {
 		cc.imprimirExtrato();
 		poupanca.imprimirExtrato();
 	}
+
+	//List<Integer> contas = new ArrayList<>();
+	//contas.add(conta);
 
 }
