@@ -10,13 +10,6 @@ public class ConsumerExample {
     public static void main(String[] args) {
         List<Integer> numeros = Arrays.asList(1, 2, 3, 4, 5,6, 100, 56);
 
-        //Usar o consumer com expressao lambda para imprimir numeros pares
-        Consumer<Integer> imprimirNumeroPar = numero -> {
-            if (numero % 2 == 0) {
-                System.out.println(numero);
-            }
-        };
-        
         //usar o consumer para imprimir pares no Stream
         numeros.stream()
                 .filter(n -> n %2==0)
